@@ -2,7 +2,7 @@ const staticCacheName = "cache-v1";
 
 const assets = [
 "/",
-"/index pizza.html",
+"/index.html",
 "/style.css",
 "/page1.html",
 "/page2.html",
