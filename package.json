@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "commander": "^8.3.0",
+    "date-fns": "^2.28.0",
+    "swiper": "^7.4.1"
+  },
+  "name": "42-pizza-v.1",
+  "version": "1.0.0",
+  "description": "My fist App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wild767",
+  "license": "ISC"
+}

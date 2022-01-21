@@ -1,0 +1,70 @@
+/*----------------pizzaPhoto--------------*/
+
+
+#pizzaPhotos{
+    height: 100px;
+    background-color:antiquewhite ;
+    display: grid;
+}
+#pizzaPhoto {
+    height: 1500px;
+    width: 90%;
+    background-color: antiquewhite;
+    padding: 1px 5%;
+    display: flex;
+  }
+  #pizzaPhoto h2 {
+    padding-top: 60px;
+  }
+  #pizza1 {
+    background: url(./image/pizza-1-400px.jpg);*/
+  }
+  #pizza2 {
+    background: url(./image/pizza-3-400px.jpg);*/
+  }
+  #pizza3 {
+    background: url(./image/Pizza-5-400px.jpg);*/
+  }
+  #pizza4 {
+    background: url(./image/Pizza-4.1-400px.jpg);1*/
+  }
+  
+  #pizzaPhoto ul{
+  height: 700px;
+  width: 100em;
+  }
+
+  #pizzaPhoto li {
+    flex: 1 0 15%;
+    max-width: 465px;
+    min-height: 240px;
+    padding: 10px 10px -1px;
+    border-radius: 10px;
+    backdrop-filter:blur(2px);
+    background:"";
+    box-shadow: -20px 20px 60px #0f191b, 20px -20px 60px #9fffff;
+    display: grid;
+    margin: 65px 100px 0 100px;
+    height: 280px;
+    width: 50%;
+    float: left;   
+  }
+  
+
+  #pizza1 p,#pizza3 p{
+    color: #b31818;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: left;
+    margin-left:-160px;
+  }
+  #pizzaPhoto #pizza2,#pizzaPhoto #pizza4{
+    float:right;
+  }
+  #pizza2 p,#pizza4 p{
+      color: #b31818;
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      float: left;
+      background-color:"";
+      margin-left: -160px;
+  }
+/*------------------------*/
